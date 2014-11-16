@@ -1,0 +1,35 @@
+html {
+	font-size: 18px;
+}
+
+h1 {
+	font-family: 'Nothing You Could Do', cursive;
+	font-weight: 400;
+	font-size: 2rem;
+}
+
+h2, h3, h4, p {
+	font-family: 'Lato', sans-serif;
+	color: gray;
+}
+
+p {
+	font-weight: 300;
+	font-size: 1rem;
+}
+
+h2, h3, h4 {
+	font-weight: 400;
+}
+
+h2 {
+	font-size: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+}
+
+h4 {
+	font-size: 1.125rem;
+}
