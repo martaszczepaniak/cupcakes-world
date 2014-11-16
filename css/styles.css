@@ -117,7 +117,7 @@ li {
 .bestsellers {
 	background-color: #DCEDC2;
 	text-align: center;
-	padding: 20px 0 60px 0;
+	padding: 20px 0 40px 0;
 }
 
 .bestsellers-header {
@@ -156,6 +156,9 @@ li {
 	border-radius: 5px;
 	text-decoration: none;
 	color: white;
+	display: block;
+	margin: 20px auto;
+	width: 200px;
 }
 
 .aboutus {
@@ -170,10 +173,6 @@ li {
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
 	height: 200px;
-}
-
-.aboutus p {
-	color: gray;
 }
 
 .aboutus h2 {

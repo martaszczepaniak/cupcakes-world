@@ -8,9 +8,9 @@ h1 {
 	font-size: 2rem;
 }
 
-h2, h3, h4 {
+h2, h3, h4, p {
 	font-family: 'Nothing You Could Do', cursive;
-	color: gray;
+	color: #666;
 }
 
 p {
