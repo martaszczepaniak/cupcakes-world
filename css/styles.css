@@ -128,12 +128,23 @@ li {
 	border-radius: 100%;
 	width: 200px;
 	height: 200px;
-	background-image: url("../img/heartcupcake.png");
 	background-size: auto 80%;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
 	background-color: #fff;
 	margin: 0 auto;
+}
+
+.bestsellers .bestselling-item .item-image.first-item {
+	background-image: url("../img/smallcupcake.png");
+}
+
+.bestsellers .bestselling-item .item-image.second-item {
+	background-image: url("../img/creamcupcake.png");
+}
+
+.bestsellers .bestselling-item .item-image.third-item {
+	background-image: url("../img/mintcupcake.png");
 }
 
 .bestsellers .bestselling-item .item-button {
@@ -154,7 +165,7 @@ li {
 }
 
 .aboutus .aboutus-image {
-	background-image: url("../img/heartcupcake.png");
+	background-image: url("../img/cherrycupcake.png");
 	background-size: auto 80%;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
