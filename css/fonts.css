@@ -8,12 +8,13 @@ h1 {
 	font-size: 2rem;
 }
 
-h2, h3, h4, p {
+h2, h3, h4 {
 	font-family: 'Nothing You Could Do', cursive;
 	color: gray;
 }
 
 p {
+	font-family: Lato;
 	font-weight: 300;
 	font-size: 1rem;
 }
