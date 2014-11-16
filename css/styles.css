@@ -65,7 +65,7 @@ li {
 	margin-left: 50px;
 }
 
-.nav .nav-container .nav-links-container .nav-links .nav-link a{
+.nav .nav-container .nav-links-container .nav-links .nav-link a {
 	font-size: 24px;
 	font-weight: 400;
 	text-decoration: none;
@@ -73,4 +73,39 @@ li {
 	line-height: 30px;
 	padding: 10px 0;
 	display: block;
+}
+
+.hero .hero-image {
+	height: 350px;
+	background-image: url("../img/heartcupcake.png");
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+
+.hero .hero-text .hero-table {
+	display: table;
+	height: 350px;
+}
+
+.hero .hero-text .hero-table .hero-table-cell {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.hero .hero-text .hero-table .hero-table-cell .hero-button {
+	display: block;
+	float: left;
+	background-color: #FFAAA6;
+	font-family: 'Lato';
+	font-weight: 300;
+	font-size: 1.125rem;
+	padding: 0.7rem;
+	border-radius: 5px;
+	text-decoration: none;
+	color: white;
+}
+
+.hero .hero-text .hero-table .hero-table-cell .hero-button:hover {
+	background-color: #FFD3B5;
 }
