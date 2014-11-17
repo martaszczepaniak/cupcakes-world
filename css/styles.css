@@ -181,13 +181,20 @@ li {
 
 .cupcakes-list-header .cupcakes-categories {
 	background-color: #FFAAA6;
-	height: 800px;
-	background-size: auto;
+	height: 400px;
 	text-align: center
 }
 
+
+.cupcakes-list-header .cupcakes-categories li{
+	font-family: Lato;
+	font-weight: 400;
+	font-size: 1rem;
+	padding: 0.7rem;
+	text-align: left;
+}
+
 .cupcakes-list-header .cat-item {
-	display: block;
 	text-align: center;
 	margin-right: 30px;
 	padding-top: 30px;
@@ -199,12 +206,12 @@ li {
 	background-size: auto 80%;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
-	display: block;
 }
 
 .cupcakes-list-header .list-header {
 	padding-bottom: 30px;
 }
-.cupcakes-list-header .cat-space {
-	
+
+.cat-shadow {
+	box-shadow: 0 1px 3px gray;
 }
