@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
@@ -6,6 +7,15 @@
 		<link rel="stylesheet" href="css/fonts.css">
 		<link href='http://fonts.googleapis.com/css?family=Nothing+You+Could+Do' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Lato:300,400&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+		<script>
+			var chamgeCupcakes = function() {
+				var request = new XMLHttpRequest();
+				request.open('GET', '', false); 
+				request.send(null);
+				if(request.status == 0)
+				  console.log(request);	
+			} 
+		</script>
 	</head>
 	<body>
 		<nav id="main-nav" class="nav">
@@ -40,16 +50,14 @@
 		<section class="cupcakes-list">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-4">
-						<div class="col-md-3">
-							<h3>CATEGORIES</h3>
+					<div class="col-md-4 cupcakes-categories cat-shadow">
+						<h3>CATEGORIES</h3>
 							<ul>
 								<li><a href="czekoladowe.html">Czekolada</a></li>
 								<li><a class="light" href="owocowe.html">Owoce</a></li>
 								<li><a href="orzechowe.html">Orzechy</a></li>
 								<li><a href="inne.html">Inne</a></li>
 							</ul>
-						</div>
 					</div>
 					<div class="col-md-8">
 						<div class="row">
@@ -112,6 +120,12 @@
 									</div>
 							</div>
 						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-2">
+						<div id="myDiv"><h2>Let AJAX change this text</h2></div>
+						<button type="button" onclick="loadXMLDoc()">Change Content</button>
 					</div>
 				</div>
 			</div>
