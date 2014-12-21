@@ -1,0 +1,2097 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250"
+   height="358.78943"
+   id="svg16903"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="mintcupcake.svg">
+  <defs
+     id="defs16905">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3918">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path3920" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5368">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 727.076,598.007 c 0,-1.176 0.953,-2.131 2.131,-2.131 l 0,0 c 1.175,0 2.131,0.955 2.131,2.131 l 0,0 c 0,1.177 -0.956,2.131 -2.131,2.131 l 0,0 c -1.178,0 -2.131,-0.954 -2.131,-2.131"
+         id="path5370" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2718658,-4.2452087,-4.2452087,-0.2718658,729.07617,600.04492)"
+       spreadMethod="pad"
+       id="linearGradient5376">
+      <stop
+         style="stop-opacity:1;stop-color:#d080b3"
+         offset="0"
+         id="stop5378" />
+      <stop
+         style="stop-opacity:1;stop-color:#9b4196"
+         offset="0.786499"
+         id="stop5380" />
+      <stop
+         style="stop-opacity:1;stop-color:#9b4196"
+         offset="0.786499"
+         id="stop5382" />
+      <stop
+         style="stop-opacity:1;stop-color:#9b4196"
+         offset="1"
+         id="stop5384" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5348">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 723.73,594.677 c 0,-1.136 0.922,-2.057 2.057,-2.057 l 0,0 c 1.137,0 2.057,0.921 2.057,2.057 l 0,0 c 0,1.136 -0.92,2.057 -2.057,2.057 l 0,0 c -1.135,0 -2.057,-0.921 -2.057,-2.057"
+         id="path5350" />
+    </clipPath>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.1828003,0.3318939,0.3318939,-5.1828003,726.13379,596.25098)"
+       spreadMethod="pad"
+       id="radialGradient5356">
+      <stop
+         style="stop-opacity:1;stop-color:#f48481"
+         offset="0"
+         id="stop5358" />
+      <stop
+         style="stop-opacity:1;stop-color:#ec363f"
+         offset="1"
+         id="stop5360" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5332">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path5334" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5308">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 660.785,589.107 c 0,-1.177 0.953,-2.131 2.131,-2.131 l 0,0 c 1.176,0 2.131,0.954 2.131,2.131 l 0,0 c 0,1.177 -0.955,2.131 -2.131,2.131 l 0,0 c -1.178,0 -2.131,-0.954 -2.131,-2.131"
+         id="path5310" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2724457,-4.2543335,-4.2543335,-0.2724457,662.78223,591.15479)"
+       spreadMethod="pad"
+       id="linearGradient5316">
+      <stop
+         style="stop-opacity:1;stop-color:#f48336"
+         offset="0"
+         id="stop5318" />
+      <stop
+         style="stop-opacity:1;stop-color:#e55a39"
+         offset="0.741592"
+         id="stop5320" />
+      <stop
+         style="stop-opacity:1;stop-color:#e55a39"
+         offset="0.741592"
+         id="stop5322" />
+      <stop
+         style="stop-opacity:1;stop-color:#e55a39"
+         offset="1"
+         id="stop5324" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5284">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 697.842,602.464 c 0,-1.177 0.953,-2.131 2.13,-2.131 l 0,0 c 1.177,0 2.132,0.954 2.132,2.131 l 0,0 c 0,1.177 -0.955,2.131 -2.132,2.131 l 0,0 c -1.177,0 -2.13,-0.954 -2.13,-2.131"
+         id="path5286" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2720795,-4.2490692,-4.2490692,-0.2720795,699.82031,604.78564)"
+       spreadMethod="pad"
+       id="linearGradient5292">
+      <stop
+         style="stop-opacity:1;stop-color:#d080b3"
+         offset="0"
+         id="stop5294" />
+      <stop
+         style="stop-opacity:1;stop-color:#9b4196"
+         offset="0.786499"
+         id="stop5296" />
+      <stop
+         style="stop-opacity:1;stop-color:#9b4196"
+         offset="0.786499"
+         id="stop5298" />
+      <stop
+         style="stop-opacity:1;stop-color:#9b4196"
+         offset="1"
+         id="stop5300" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5272">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path5274" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5252">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 682.895,580.578 c 0,-1.136 0.921,-2.058 2.058,-2.058 l 0,0 c 1.137,0 2.057,0.922 2.057,2.058 l 0,0 c 0,1.136 -0.92,2.058 -2.057,2.058 l 0,0 c -1.137,0 -2.058,-0.922 -2.058,-2.058"
+         id="path5254" />
+    </clipPath>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.2105408,0.3336487,0.3336487,-5.2105408,685.25684,582.18799)"
+       spreadMethod="pad"
+       id="radialGradient5260">
+      <stop
+         style="stop-opacity:1;stop-color:#f48481"
+         offset="0"
+         id="stop5262" />
+      <stop
+         style="stop-opacity:1;stop-color:#ec363f"
+         offset="1"
+         id="stop5264" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5240">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path5242" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5220">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 718.558,608.856 c 0,-1.136 0.923,-2.058 2.059,-2.058 l 0,0 c 1.137,0 2.057,0.922 2.057,2.058 l 0,0 c 0,1.137 -0.92,2.058 -2.057,2.058 l 0,0 c -1.136,0 -2.059,-0.921 -2.059,-2.058"
+         id="path5222" />
+    </clipPath>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.2091827,0.3335724,0.3335724,-5.2091827,720.92773,610.47168)"
+       spreadMethod="pad"
+       id="radialGradient5228">
+      <stop
+         style="stop-opacity:1;stop-color:#f48481"
+         offset="0"
+         id="stop5230" />
+      <stop
+         style="stop-opacity:1;stop-color:#ec363f"
+         offset="1"
+         id="stop5232" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5208">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path5210" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5184">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 696.914,630.38 c 0,-1.177 0.953,-2.131 2.131,-2.131 l 0,0 c 1.176,0 2.131,0.954 2.131,2.131 l 0,0 c 0,1.177 -0.955,2.131 -2.131,2.131 l 0,0 c -1.178,0 -2.131,-0.954 -2.131,-2.131"
+         id="path5186" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2724457,-4.2538605,-4.2538605,-0.2724457,698.88965,632.77783)"
+       spreadMethod="pad"
+       id="linearGradient5192">
+      <stop
+         style="stop-opacity:1;stop-color:#f48336"
+         offset="0"
+         id="stop5194" />
+      <stop
+         style="stop-opacity:1;stop-color:#e55a39"
+         offset="0.741592"
+         id="stop5196" />
+      <stop
+         style="stop-opacity:1;stop-color:#e55a39"
+         offset="0.741592"
+         id="stop5198" />
+      <stop
+         style="stop-opacity:1;stop-color:#e55a39"
+         offset="1"
+         id="stop5200" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5172">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path5174" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5146">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 668.534,598.728 c 0,-1.018 0.823,-1.844 1.843,-1.844 l 0,0 c 1.018,0 1.844,0.826 1.844,1.844 l 0,0 c 0,1.018 -0.826,1.844 -1.844,1.844 l 0,0 c -1.02,0 -1.843,-0.826 -1.843,-1.844"
+         id="path5148" />
+    </clipPath>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0297241,0.1299744,0.1299744,-2.0297241,670.25977,599.26562)"
+       spreadMethod="pad"
+       id="radialGradient5154">
+      <stop
+         style="stop-opacity:1;stop-color:#fef386"
+         offset="0"
+         id="stop5156" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffce2c"
+         offset="0.617996"
+         id="stop5158" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffce2c"
+         offset="0.617996"
+         id="stop5160" />
+      <stop
+         style="stop-opacity:1;stop-color:#fbbf31"
+         offset="0.915695"
+         id="stop5162" />
+      <stop
+         style="stop-opacity:1;stop-color:#fbbf31"
+         offset="1"
+         id="stop5164" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5134">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path5136" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5108">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 714.28,616.436 c 0,-1.396 1.13,-2.527 2.527,-2.527 l 0,0 c 1.394,0 2.527,1.131 2.527,2.527 l 0,0 c 0,1.395 -1.133,2.527 -2.527,2.527 l 0,0 c -1.397,0 -2.527,-1.132 -2.527,-2.527"
+         id="path5110" />
+    </clipPath>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.7835541,0.1782379,0.1782379,-2.7835541,716.63477,617.20312)"
+       spreadMethod="pad"
+       id="radialGradient5116">
+      <stop
+         style="stop-opacity:1;stop-color:#fef386"
+         offset="0"
+         id="stop5118" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffce2c"
+         offset="0.617996"
+         id="stop5120" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffce2c"
+         offset="0.617996"
+         id="stop5122" />
+      <stop
+         style="stop-opacity:1;stop-color:#fbbf31"
+         offset="0.915695"
+         id="stop5124" />
+      <stop
+         style="stop-opacity:1;stop-color:#fbbf31"
+         offset="1"
+         id="stop5126" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5092">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path5094" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5068">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 671.129,581.075 c 0,-1.176 0.955,-2.13 2.13,-2.13 l 0,0 c 1.177,0 2.13,0.954 2.13,2.13 l 0,0 c 0,1.176 -0.953,2.13 -2.13,2.13 l 0,0 c -1.175,0 -2.13,-0.954 -2.13,-2.13"
+         id="path5070" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.272171,-4.2500305,-4.2500305,-0.272171,673.12793,583.11816)"
+       spreadMethod="pad"
+       id="linearGradient5076">
+      <stop
+         style="stop-opacity:1;stop-color:#d080b3"
+         offset="0"
+         id="stop5078" />
+      <stop
+         style="stop-opacity:1;stop-color:#9b4196"
+         offset="0.786499"
+         id="stop5080" />
+      <stop
+         style="stop-opacity:1;stop-color:#9b4196"
+         offset="0.786499"
+         id="stop5082" />
+      <stop
+         style="stop-opacity:1;stop-color:#9b4196"
+         offset="1"
+         id="stop5084" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5048">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 678.814,598.114 c 0,-1.136 0.923,-2.058 2.057,-2.058 l 0,0 c 1.136,0 2.057,0.922 2.057,2.058 l 0,0 c 0,1.136 -0.921,2.057 -2.057,2.057 l 0,0 c -1.134,0 -2.057,-0.921 -2.057,-2.057"
+         id="path5050" />
+    </clipPath>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.2076569,0.3334808,0.3334808,-5.2076416,681.21777,599.67773)"
+       spreadMethod="pad"
+       id="radialGradient5056">
+      <stop
+         style="stop-opacity:1;stop-color:#f48481"
+         offset="0"
+         id="stop5058" />
+      <stop
+         style="stop-opacity:1;stop-color:#ec363f"
+         offset="1"
+         id="stop5060" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5032">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path5034" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5008">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 730.959,577.292 c 0,-1.038 0.842,-1.88 1.88,-1.88 l 0,0 c 1.038,0 1.88,0.842 1.88,1.88 l 0,0 c 0,1.038 -0.842,1.88 -1.88,1.88 l 0,0 c -1.038,0 -1.88,-0.842 -1.88,-1.88"
+         id="path5010" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2401276,-3.7495117,-3.7495117,-0.2401276,732.72168,579.09229)"
+       spreadMethod="pad"
+       id="linearGradient5016">
+      <stop
+         style="stop-opacity:1;stop-color:#f48336"
+         offset="0"
+         id="stop5018" />
+      <stop
+         style="stop-opacity:1;stop-color:#e55a39"
+         offset="0.741592"
+         id="stop5020" />
+      <stop
+         style="stop-opacity:1;stop-color:#e55a39"
+         offset="0.741592"
+         id="stop5022" />
+      <stop
+         style="stop-opacity:1;stop-color:#e55a39"
+         offset="1"
+         id="stop5024" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4984">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 703.601,624.63 c 0,-0.964 0.784,-1.746 1.747,-1.746 l 0,0 c 0.965,0 1.746,0.782 1.746,1.746 l 0,0 c 0,0.964 -0.781,1.746 -1.746,1.746 l 0,0 c -0.963,0 -1.747,-0.782 -1.747,-1.746"
+         id="path4986" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2231598,-3.4851227,-3.4851227,-0.2231598,705.21875,626.53711)"
+       spreadMethod="pad"
+       id="linearGradient4992">
+      <stop
+         style="stop-opacity:1;stop-color:#d080b3"
+         offset="0"
+         id="stop4994" />
+      <stop
+         style="stop-opacity:1;stop-color:#9b4196"
+         offset="0.786499"
+         id="stop4996" />
+      <stop
+         style="stop-opacity:1;stop-color:#9b4196"
+         offset="0.786499"
+         id="stop4998" />
+      <stop
+         style="stop-opacity:1;stop-color:#9b4196"
+         offset="1"
+         id="stop5000" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4972">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path4974" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4952">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 673.258,613.803 c 0,-1.137 0.922,-2.058 2.059,-2.058 l 0,0 c 1.136,0 2.058,0.921 2.058,2.058 l 0,0 c 0,1.136 -0.922,2.058 -2.058,2.058 l 0,0 c -1.137,0 -2.059,-0.922 -2.059,-2.058"
+         id="path4954" />
+    </clipPath>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.2012024,0.3330536,0.3330536,-5.2012024,675.63281,615.40283)"
+       spreadMethod="pad"
+       id="radialGradient4960">
+      <stop
+         style="stop-opacity:1;stop-color:#f48481"
+         offset="0"
+         id="stop4962" />
+      <stop
+         style="stop-opacity:1;stop-color:#ec363f"
+         offset="1"
+         id="stop4964" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4940">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path4942" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4920">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 708.51,607.297 c 0,-0.97 0.787,-1.756 1.756,-1.756 l 0,0 c 0.971,0 1.757,0.786 1.757,1.756 l 0,0 c 0,0.971 -0.786,1.757 -1.757,1.757 l 0,0 c -0.969,0 -1.756,-0.786 -1.756,-1.757"
+         id="path4922" />
+    </clipPath>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.452301,0.2850952,0.2850952,-4.452301,710.52539,608.68066)"
+       spreadMethod="pad"
+       id="radialGradient4928">
+      <stop
+         style="stop-opacity:1;stop-color:#f48481"
+         offset="0"
+         id="stop4930" />
+      <stop
+         style="stop-opacity:1;stop-color:#ec363f"
+         offset="1"
+         id="stop4932" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4908">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path4910" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4884">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 715.066,579.547 c 0,-1.021 0.826,-1.85 1.848,-1.85 l 0,0 c 1.021,0 1.849,0.829 1.849,1.85 l 0,0 c 0,1.021 -0.828,1.849 -1.849,1.849 l 0,0 c -1.022,0 -1.848,-0.828 -1.848,-1.849"
+         id="path4886" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2362671,-3.688858,-3.688858,-0.2362671,716.78125,581.62842)"
+       spreadMethod="pad"
+       id="linearGradient4892">
+      <stop
+         style="stop-opacity:1;stop-color:#f48336"
+         offset="0"
+         id="stop4894" />
+      <stop
+         style="stop-opacity:1;stop-color:#e55a39"
+         offset="0.741592"
+         id="stop4896" />
+      <stop
+         style="stop-opacity:1;stop-color:#e55a39"
+         offset="0.741592"
+         id="stop4898" />
+      <stop
+         style="stop-opacity:1;stop-color:#e55a39"
+         offset="1"
+         id="stop4900" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4872">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path4874" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4846">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 702.521,582.255 c 0,-1.19 0.965,-2.154 2.155,-2.154 l 0,0 c 1.189,0 2.154,0.964 2.154,2.154 l 0,0 c 0,1.189 -0.965,2.154 -2.154,2.154 l 0,0 c -1.19,0 -2.155,-0.965 -2.155,-2.154"
+         id="path4848" />
+    </clipPath>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3703308,0.1517792,0.1517792,-2.3703308,704.53906,582.88525)"
+       spreadMethod="pad"
+       id="radialGradient4854">
+      <stop
+         style="stop-opacity:1;stop-color:#fef386"
+         offset="0"
+         id="stop4856" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffce2c"
+         offset="0.617996"
+         id="stop4858" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffce2c"
+         offset="0.617996"
+         id="stop4860" />
+      <stop
+         style="stop-opacity:1;stop-color:#fbbf31"
+         offset="0.915695"
+         id="stop4862" />
+      <stop
+         style="stop-opacity:1;stop-color:#fbbf31"
+         offset="1"
+         id="stop4864" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4834">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path4836" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4808">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 687.066,615.723 c 0,-1.174 0.953,-2.127 2.13,-2.127 l 0,0 c 1.173,0 2.126,0.953 2.126,2.127 l 0,0 c 0,1.177 -0.953,2.129 -2.126,2.129 l 0,0 c -1.177,0 -2.13,-0.952 -2.13,-2.129"
+         id="path4810" />
+    </clipPath>
+    <radialGradient
+       fx="0"
+       fy="0"
+       cx="0"
+       cy="0"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3437653,0.1500854,0.1500854,-2.3437653,689.04785,616.36621)"
+       spreadMethod="pad"
+       id="radialGradient4816">
+      <stop
+         style="stop-opacity:1;stop-color:#fef386"
+         offset="0"
+         id="stop4818" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffce2c"
+         offset="0.617996"
+         id="stop4820" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffce2c"
+         offset="0.617996"
+         id="stop4822" />
+      <stop
+         style="stop-opacity:1;stop-color:#fbbf31"
+         offset="0.915695"
+         id="stop4824" />
+      <stop
+         style="stop-opacity:1;stop-color:#fbbf31"
+         offset="1"
+         id="stop4826" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4636">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,1000 1000,0 L 1000,0 0,0 0,1000 z"
+         id="path4638" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4626">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 668.965,547.19 c 0.004,0 0.008,-0.002 0.011,-0.003 l 0,0 -0.421,1.568 c -0.033,0.013 -0.049,0.021 -0.049,0.021 l 0,0 0.459,-1.586 z"
+         id="path4628" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient4816"
+       id="radialGradient20967"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3437653,0.1500854,0.1500854,-2.3437653,689.04785,616.36621)"
+       spreadMethod="pad"
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       r="1" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient4854"
+       id="radialGradient20969"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3703308,0.1517792,0.1517792,-2.3703308,704.53906,582.88525)"
+       spreadMethod="pad"
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       r="1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4892"
+       id="linearGradient20971"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2362671,-3.688858,-3.688858,-0.2362671,716.78125,581.62842)"
+       spreadMethod="pad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient4928"
+       id="radialGradient20973"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.452301,0.2850952,0.2850952,-4.452301,710.52539,608.68066)"
+       spreadMethod="pad"
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       r="1" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient4960"
+       id="radialGradient20975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.2012024,0.3330536,0.3330536,-5.2012024,675.63281,615.40283)"
+       spreadMethod="pad"
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       r="1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4992"
+       id="linearGradient20977"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2231598,-3.4851227,-3.4851227,-0.2231598,705.21875,626.53711)"
+       spreadMethod="pad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5016"
+       id="linearGradient20979"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2401276,-3.7495117,-3.7495117,-0.2401276,732.72168,579.09229)"
+       spreadMethod="pad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient5056"
+       id="radialGradient20981"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.2076569,0.3334808,0.3334808,-5.2076416,681.21777,599.67773)"
+       spreadMethod="pad"
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       r="1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5076"
+       id="linearGradient20983"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.272171,-4.2500305,-4.2500305,-0.272171,673.12793,583.11816)"
+       spreadMethod="pad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient5116"
+       id="radialGradient20985"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.7835541,0.1782379,0.1782379,-2.7835541,716.63477,617.20312)"
+       spreadMethod="pad"
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       r="1" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient5154"
+       id="radialGradient20987"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0297241,0.1299744,0.1299744,-2.0297241,670.25977,599.26562)"
+       spreadMethod="pad"
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       r="1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5192"
+       id="linearGradient20989"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2724457,-4.2538605,-4.2538605,-0.2724457,698.88965,632.77783)"
+       spreadMethod="pad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient5228"
+       id="radialGradient20991"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.2091827,0.3335724,0.3335724,-5.2091827,720.92773,610.47168)"
+       spreadMethod="pad"
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       r="1" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient5260"
+       id="radialGradient20993"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.2105408,0.3336487,0.3336487,-5.2105408,685.25684,582.18799)"
+       spreadMethod="pad"
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       r="1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5292"
+       id="linearGradient20995"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2720795,-4.2490692,-4.2490692,-0.2720795,699.82031,604.78564)"
+       spreadMethod="pad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5316"
+       id="linearGradient20997"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2724457,-4.2543335,-4.2543335,-0.2724457,662.78223,591.15479)"
+       spreadMethod="pad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient5356"
+       id="radialGradient20999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.1828003,0.3318939,0.3318939,-5.1828003,726.13379,596.25098)"
+       spreadMethod="pad"
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       r="1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5376"
+       id="linearGradient21001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2718658,-4.2452087,-4.2452087,-0.2718658,729.07617,600.04492)"
+       spreadMethod="pad"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="350.76898"
+     inkscape:cy="218.91141"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3916"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata16908">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-253.80721,82.636843)">
+    <g
+       id="g3914"
+       transform="matrix(1.25,0,0,-1.25,-426.82743,1246.5739)">
+      <g
+         id="g3916"
+         clip-path="url(#clipPath3918)"
+         transform="translate(185.86807,102.6315)">
+        <g
+           id="g4530-8"
+           transform="matrix(2.1500853,0,0,2.1500853,467.33043,719.24436)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 c 22.5,0 40.74,-4.741 40.74,-10.59 0,-5.849 -18.24,-10.59 -40.74,-10.59 -22.5,0 -40.74,4.741 -40.74,10.59 C -40.74,-4.741 -22.5,0 0,0"
+             style="fill:#e1eeee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4532-6"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4534-3"
+           transform="matrix(2.1500853,0,0,2.1500853,465.8355,717.02289)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 c 18.131,0 32.828,-3.539 32.828,-7.905 0,-4.366 -14.697,-7.905 -32.828,-7.905 -18.131,0 -32.828,3.539 -32.828,7.905 C -32.828,-3.539 -18.131,0 0,0"
+             style="fill:#c4dfde;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4536-6"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4538-2"
+           transform="matrix(2.1500853,0,0,2.1500853,381.94863,818.85373)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 c 0,0 -5.244,-4.372 0.762,-11.406 6.008,-7.034 24.24,-9.513 37.043,-9.432 12.799,0.083 30.369,5.778 34.988,12.012 4.615,6.231 3.445,14.104 -0.699,14.64 C 67.951,6.345 0,0 0,0"
+             style="fill:#7c4832;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4540-7"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4542-4"
+           transform="matrix(2.1500853,0,0,2.1500853,544.78382,820.06637)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 c -6.59,-4.298 -18.529,-6.101 -26.914,-6.101 -3.748,0 -6.787,0.36 -8.318,1.02 -2.836,-0.984 -8.747,-1.596 -15.497,-1.596 -5.244,0 -11,0.37 -16.207,1.22 13.6,-4.743 30.934,-1.418 45.489,-6.097 -5.035,-1.918 -10.11,-2.54 -15.162,-2.54 -4.645,0 -9.272,0.525 -13.84,1.05 -4.571,0.527 -9.082,1.052 -13.485,1.052 -1.906,0 -3.793,-0.097 -5.654,-0.337 -0.726,2.17 -1.955,2.824 -3.375,2.825 -1.043,0 -2.189,-0.353 -3.312,-0.714 0.267,-0.418 0.572,-0.85 0.921,-1.292 l 1.901,0.592 2.92,-3.439 4.197,2.082 3.094,-3.134 3.373,2.249 2.836,-3.746 4.117,2.391 3.098,-2.979 0.06,-0.562 3.807,2.805 3.435,-2.833 3.563,3.48 3.277,-2.707 3.709,2.889 3.438,-2.523 3.894,3.474 3.953,-1.765 2.914,4.261 3.608,-2.375 1.918,4.278 3.793,-1.45 3.054,3.177 2.809,-0.974 -0.111,-0.732 c 1.884,2.687 2.724,5.646 2.73,8.172 C 0.033,-0.581 0.021,-0.287 0,0"
+             style="fill:#613c2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4544-8"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4546-2"
+           transform="matrix(2.1500853,0,0,2.1500853,406.38048,703.54916)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 c 0,0 24.848,-12.296 54.857,0.264 l 6.924,45.606 -2.806,0.974 -3.057,-3.177 -3.793,1.45 -1.918,-4.278 -3.607,2.375 -2.914,-4.261 -3.952,1.765 -3.896,-3.474 -3.438,2.523 -4.056,-3.161 -2.942,2.515 -3.552,-3.016 -3.434,2.833 -3.879,-2.858 -3.084,3.595 -3.879,-2.705 -3.076,4.06 -3.373,-2.249 -3.092,3.134 -4.199,-2.082 -2.92,3.439 -2.342,-0.729 L 0,0 z"
+             style="fill:#954b35;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4548-5"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4550-9"
+           transform="matrix(2.1500853,0,0,2.1500853,393.12735,789.19545)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 10.121,-41.446 4.793,-1.16 L 7.291,-1.051 4.199,2.082 0,0 z"
+             style="fill:#b05e39;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4552-6"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4554-2"
+           transform="matrix(2.1500853,0,0,2.1500853,421.60328,783.39624)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 6.637,-40.923 c 0,0 2.308,-0.964 5.299,-1.018 L 7.473,-0.44 4.375,2.539 0,0 z"
+             style="fill:#b05e39;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4556-9"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4558-1"
+           transform="matrix(2.1500853,0,0,2.1500853,453.36329,781.17886)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 3.135,-41.632 c 0,0 2.988,-0.204 5.484,0.059 L 6.994,0.646 3.564,3.48 0,0 z"
+             style="fill:#b05e39;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4560-8"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4562-9"
+           transform="matrix(2.1500853,0,0,2.1500853,483.4393,783.62823)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 0.627,-42.2 c 0,0 4.664,0.531 5.676,1.129 L 7.848,1.71 3.895,3.475 0,0 z"
+             style="fill:#b05e39;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4564-8"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4566-9"
+           transform="matrix(2.1500853,0,0,2.1500853,514.33412,791.35822)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 -2.877,-42.909 c 0,0 2.336,0.421 4.18,1.16 L 5.711,2.828 1.918,4.278 0,0 z"
+             style="fill:#b05e39;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4568-4"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4570-6"
+           transform="matrix(2.1500853,0,0,2.1500853,437.72892,948.50129)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 c 0,0 4.658,0.807 5.436,-1.779 0.777,-2.587 -0.776,-6.791 -9.124,-8.888 -8.345,-2.104 -19.021,-7.759 -17.082,-15.518 -7.181,-1.618 -13.201,-8.891 -9.318,-13.9 -8.541,-2.265 -9.705,-16.003 1.168,-21.658 10.869,-5.658 36.494,-5.497 43.479,-3.073 5.63,-2.424 31.644,-0.807 38.437,7.92 6.795,8.727 1.358,16.325 -2.328,17.296 4.078,6.302 -4.465,17.132 -12.814,14.546 3.107,6.627 -2.329,14.386 -13.782,15.675 C 24.848,-1.456 16.697,6.3 4.465,5.653 -7.766,5.008 -3.883,-1.455 0,0"
+             style="fill:#27b5b2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4572-4"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4574-1"
+           transform="matrix(2.1500853,0,0,2.1500853,546.66944,863.35985)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 c 4.078,6.302 -4.465,17.132 -12.814,14.546 3.107,6.627 -2.329,14.386 -13.782,15.675 0.297,3.038 -0.72,6.048 -2.773,8.572 3.844,-19.022 -20.061,-26.704 -33.426,-27.016 5.438,0 13.412,0.9 18.07,2.193 16.375,7.366 16.188,15.988 24.659,11.598 20.142,-13.479 -17.225,-31.502 -32.752,-31.502 11.646,-1.293 19.011,-1.723 34.377,3.508 6.847,-1.785 -13.2,-14.225 -21.743,-17.458 -15.324,-4.253 -32.746,-2.818 -45.793,3.938 1.258,-2.414 3.354,-4.623 6.389,-6.2 10.869,-5.658 36.494,-5.497 43.479,-3.073 5.63,-2.424 31.644,-0.807 38.437,7.92 C 9.123,-8.569 3.686,-0.972 0,0"
+             style="fill:#299c9a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4576-5"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4578-6"
+           transform="matrix(2.1500853,0,0,2.1500853,476.12815,811.92357)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="M 0,0 C 0,0 23.49,5.819 31.447,22.467 31.447,22.466 19.023,7.435 0,0"
+             style="fill:#2a8583;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4580-0"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4582-2"
+           transform="matrix(2.1500853,0,0,2.1500853,378.87874,857.79564)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="M 0,0 C 0,0 39.795,-13.9 63.09,13.093 63.09,13.092 44.455,-21.982 0,0"
+             style="fill:#2a8583;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4584-6"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4586-7"
+           transform="matrix(2.1500853,0,0,2.1500853,401.84939,892.76914)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 c 0,0 17.857,-5.819 31.061,5.818 2.521,2.263 6.988,8.244 6.988,8.244 0,0 -8.932,-25.215 -38.049,-14.062"
+             style="fill:#2a8583;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4588-9"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4590-0"
+           transform="matrix(2.1500853,0,0,2.1500853,380.34443,845.04736)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 c 0,0 -2.359,1.543 -4.998,-1.095 -2.637,-2.642 3.053,-7.858 12.424,-9.269 9.371,-1.411 17.498,-1.974 24.988,2.577 7.494,4.551 1.377,5.605 -1.973,4.789 C 27.092,-3.815 17.445,-3.685 11.436,-2.12 5.434,-0.553 0,0 0,0"
+             style="fill:#50c2c2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4592-5"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4594-7"
+           transform="matrix(2.1500853,0,0,2.1500853,542.07944,842.16022)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 c 0,0 -6.02,-6.305 -10.871,-8.89 -4.856,-2.586 0.971,-3.718 5.822,-2.425 4.854,1.292 9.125,4.364 10.483,7.597 C 6.793,-0.486 5.434,3.554 0,0"
+             style="fill:#39bebc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4596-3"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4598-3"
+           transform="matrix(2.1500853,0,0,2.1500853,396.60017,880.26876)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 c 0,0 -3.688,0.322 -4.463,-2.908 -0.777,-3.233 8.928,-8.406 21.738,-6.952 12.815,1.454 24.461,6.305 26.983,15.032 2.525,8.727 -3.688,4.847 -7.957,2.1 C 32.029,4.525 21.354,0.16 13.201,-0.162 5.047,-0.486 0,0 0,0"
+             style="fill:#50c2c2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4600-0"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4602-2"
+           transform="matrix(2.1500853,0,0,2.1500853,432.71903,916.52501)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="M 0,0 C 0,0 -8.928,-1.94 -9.123,-6.626 -9.318,-11.313 5.049,-11.96 13.199,-4.04 21.355,3.879 19.607,9.859 16.5,12.931 13.395,16 17.082,6.627 0,0"
+             style="fill:#50c2c2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4604-0"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4606-0"
+           transform="matrix(2.1500853,0,0,2.1500853,434.31912,913.28741)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="m 0,0 c 0,0 -6.213,-1.568 -6.213,-4.39 0,-2.822 7.902,-1.411 12.047,1.881 C 9.975,0.782 6.963,2.821 0,0"
+             style="fill:#b1e0e1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4608-5"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4610-7"
+           transform="matrix(2.1500853,0,0,2.1500853,408.41317,875.54438)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="M 0,0 C 0,0 -3.953,0.155 -3.391,-2.667 -2.824,-5.488 8.281,-5.33 15.436,-3.92 22.588,-2.509 18.447,0.155 15.623,0.155 12.799,0.155 0,0 0,0"
+             style="fill:#b1e0e1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4612-0"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4614-1"
+           transform="matrix(2.1500853,0,0,2.1500853,389.79707,836.78716)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="M 0,0 C 0,0 -3.578,-0.782 -0.189,-2.821 3.199,-4.858 6.023,-5.642 10.164,-5.171 14.305,-4.701 10.729,0.157 0,0"
+             style="fill:#b1e0e1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4616-1"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4618-9"
+           transform="matrix(2.1500853,0,0,2.1500853,545.61547,834.09332)"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <path
+             d="M 0,0 C 0,0 -2.824,0.158 -4.518,-1.881 -6.211,-3.918 -3.201,-4.389 -1.129,-2.977 0.941,-1.568 1.506,-0.313 0,0"
+             style="fill:#8ad2d3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4620-3"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-847.96008,-402.07365)"
+           id="g4632"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g4634"
+             clip-path="url(#clipPath4636)"
+             transform="translate(14.714285,0.99999995)">
+            <g
+               id="g4800"
+               transform="translate(689.2852,614.3086)" />
+            <g
+               id="g4700-2"
+               transform="translate(560.66256,543.49384)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,0 c 0,0 35.701,-9.869 67.691,1.732 l -0.392,-2.766 c 0,0 -24.656,-10.806 -66.692,-1.748 L 0,0 z"
+                 style="fill:#f48f9f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4702-9" />
+            </g>
+            <g
+               id="g4704-4"
+               transform="translate(622.40476,543.31654)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,0 c -10.383,-2.917 -20.898,-3.812 -30.238,-3.731 -8.16,-3.514 -20.684,1.918 -29.586,1.918 -0.485,0 -0.989,0.037 -1.504,0.107 l 0.193,-0.899 c 42.037,-9.059 66.692,1.748 66.692,1.748 l 0.037,0.251 C 3.213,-1.949 1.461,-1.401 0,0"
+                 style="fill:#df5c79;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4706-0" />
+            </g>
+            <g
+               id="g4748-1"
+               transform="translate(600.71336,542.41474)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,0 c 0,0 -6.967,3.972 -13.975,3.18 -3.464,-2.438 -2.623,-11.06 0.936,-17.12 2.555,-1.833 11.482,1.293 14.012,7.243 C 0.973,-6.698 4.609,-3.23 0,0"
+                 style="fill:#fbcdce;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4750-5" />
+            </g>
+            <g
+               id="g4752-7"
+               transform="translate(605.53366,542.59244)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 0,0 6.412,4.472 13.488,4.202 17.256,2.036 17.549,-6.605 14.799,-12.905 12.498,-14.917 3.205,-12.469 -0.09,-6.737 -0.088,-6.738 -4.164,-3.557 0,0"
+                 style="fill:#fbcdce;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4754-5" />
+            </g>
+            <g
+               id="g4756-0"
+               transform="translate(599.65286,542.95864)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 0,0 0,-0.001 0.002,-0.002 0.262,-0.126 0.479,-0.235 0.646,-0.322 0.477,-0.235 0.258,-0.124 0,0 m 1.053,-0.541 c 0.002,-0.001 0.004,-0.001 0.004,-0.002 0,0.001 -0.002,0.002 -0.004,0.002"
+                 style="fill:#fac8c7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4758-4" />
+            </g>
+            <g
+               id="g4760-1"
+               transform="translate(599.65476,542.95664)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,0 c 1.787,-3.137 0.58,-7.906 -1.465,-10.208 -1.767,-1.991 -4.215,-2.571 -6.945,-2.571 -1.485,0 -3.051,0.172 -4.637,0.382 0.324,-0.718 0.678,-1.42 1.067,-2.085 0.492,-0.354 1.222,-0.522 2.099,-0.522 3.662,0 9.871,2.962 11.912,7.766 0,0 1.352,1.287 1.362,3.024 0.009,1.113 -0.534,2.411 -2.334,3.673 0,0 -0.002,0 -0.004,0.001 0,0.001 -0.002,0.001 -0.004,0.002 C 1.018,-0.52 0.877,-0.441 0.645,-0.32 0.475,-0.233 0.258,-0.124 0,0"
+                 style="fill:#f8b0b8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4762-4" />
+            </g>
+            <g
+               id="g4764-5"
+               transform="translate(605.07276,542.16764)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C -1.043,-1.042 -1.406,-2.042 -1.412,-2.925 -1.408,-2.042 -1.043,-1.042 0,0 m 0.373,-6.313 c 0.051,-0.09 0.104,-0.18 0.158,-0.267 -0.054,0.088 -0.107,0.177 -0.158,0.267"
+                 style="fill:#fac8c7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4766-7" />
+            </g>
+            <g
+               id="g4768-6"
+               transform="translate(620.15676,529.58214)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 0.01,0.007 0,0 z"
+                 style="fill:#bb6655;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4770-9" />
+            </g>
+            <g
+               id="g4772-4"
+               transform="translate(620.16256,529.55334)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,0 c -0.543,-0.374 -1.373,-0.557 -2.371,-0.561 1,0.004 1.828,0.188 2.371,0.561 m -3.242,-0.522 c 0.289,-0.026 0.568,-0.04 0.834,-0.04 -0.266,0 -0.545,0.013 -0.834,0.04"
+                 style="fill:#fac8c7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4774-5" />
+            </g>
+            <g
+               id="g4776-8"
+               transform="translate(612.34226,545.80334)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,0 c -3.973,-1.244 -6.809,-3.211 -6.809,-3.211 -0.168,-0.142 -0.322,-0.284 -0.462,-0.425 -1.042,-1.042 -1.407,-2.042 -1.413,-2.925 -0.011,-1.984 1.786,-3.387 1.786,-3.387 0.052,-0.09 0.103,-0.18 0.16,-0.267 2.424,-3.921 7.658,-6.239 11.314,-6.557 0.289,-0.026 0.569,-0.04 0.836,-0.04 0.012,0 0.024,0.002 0.035,0.002 1,0.003 1.83,0.187 2.371,0.561 0.004,0.002 0.008,0.005 0.01,0.007 0.059,0.04 0.111,0.081 0.162,0.126 0.123,0.287 0.235,0.584 0.352,0.878 -0.186,-0.009 -0.365,-0.014 -0.545,-0.014 -3.168,0 -5.988,1.449 -7.934,2.783 C -3.535,-9.094 -3.623,-3.229 0,0"
+                 style="fill:#f8b0b8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4778-5" />
+            </g>
+            <g
+               id="g4780-5"
+               transform="translate(606.06496,537.83654)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,0 c 0.084,-1.302 -0.98,-2.398 -2.379,-2.451 -1.4,-0.053 -2.603,0.959 -2.689,2.262 l -0.125,1.92 c -0.086,1.302 0.98,2.398 2.379,2.451 1.398,0.052 2.603,-0.96 2.687,-2.262 L 0,0 z"
+                 style="fill:#e6748a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4782-7" />
+            </g>
+            <g
+               id="g4784-4"
+               transform="translate(602.73676,541.04844)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 0.633,-0.088 1.045,-0.886 0.92,-1.781 0.797,-2.676 0.182,-3.331 -0.451,-3.243 -1.086,-3.154 -1.498,-2.357 -1.373,-1.461 -1.248,-0.566 -0.635,0.088 0,0"
+                 style="fill:#f48f9f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4786-2" />
+            </g>
+            <g
+               id="g4788-2"
+               transform="translate(588.19186,545.27164)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,0 c -0.807,0 -2.424,-0.353 -3.131,-3.021 -0.959,-3.629 0.535,-6.401 3.397,-6.742 0.257,-0.03 0.521,-0.046 0.781,-0.046 2.646,0 5.406,1.555 6.346,4.585 C 8.426,-1.89 6.322,-0.627 0.475,-0.045 0.475,-0.045 0.291,0 0,0"
+                 style="fill:#fde4dc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4790-2" />
+            </g>
+            <g
+               id="g4792-8"
+               transform="translate(618.53176,545.89374)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,0 c -0.92,0 -3.92,-0.24 -4.639,-3.315 -0.847,-3.645 1.848,-6.812 3.965,-7.165 0.213,-0.035 0.412,-0.051 0.602,-0.051 1.718,0 2.605,1.389 2.904,3.554 C 3.17,-4.57 2.539,-0.493 0.27,-0.007 0.268,-0.009 0.168,0 0,0"
+                 style="fill:#fde4dc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4794-0" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g4804"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g4806"
+             clip-path="url(#clipPath4808)">
+            <g
+               id="g4812">
+              <g
+                 id="g4814">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 687.066,615.723 c 0,-1.174 0.953,-2.127 2.13,-2.127 l 0,0 c 1.173,0 2.126,0.953 2.126,2.127 l 0,0 c 0,1.177 -0.953,2.129 -2.126,2.129 l 0,0 c -1.177,0 -2.13,-0.952 -2.13,-2.129"
+                   style="fill:url(#radialGradient20967);stroke:none"
+                   id="path4828" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g4830"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g4832"
+             clip-path="url(#clipPath4834)">
+            <g
+               id="g4838"
+               transform="translate(704.877,580.4966)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 0.912,-0.024 1.645,-0.312 1.637,-0.644 1.627,-0.975 0.881,-1.224 -0.031,-1.2 -0.943,-1.175 -1.676,-0.887 -1.666,-0.556 -1.658,-0.225 -0.912,0.024 0,0"
+                 style="fill:#4da4a1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4840" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g4842"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g4844"
+             clip-path="url(#clipPath4846)">
+            <g
+               id="g4850">
+              <g
+                 id="g4852">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 702.521,582.255 c 0,-1.19 0.965,-2.154 2.155,-2.154 l 0,0 c 1.189,0 2.154,0.964 2.154,2.154 l 0,0 c 0,1.189 -0.965,2.154 -2.154,2.154 l 0,0 c -1.19,0 -2.155,-0.965 -2.155,-2.154"
+                   style="fill:url(#radialGradient20969);stroke:none"
+                   id="path4866" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g4868"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g4870"
+             clip-path="url(#clipPath4872)">
+            <g
+               id="g4876"
+               transform="translate(716.8887,578.2773)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,0 c 0.93,-0.024 1.676,-0.317 1.666,-0.655 -0.008,-0.337 -0.77,-0.591 -1.697,-0.567 -0.93,0.025 -1.676,0.318 -1.668,0.655 C -1.689,-0.229 -0.93,0.024 0,0"
+                 style="fill:#2a8583;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4878" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g4880"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g4882"
+             clip-path="url(#clipPath4884)">
+            <g
+               id="g4888">
+              <g
+                 id="g4890">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 715.066,579.547 c 0,-1.021 0.826,-1.85 1.848,-1.85 l 0,0 c 1.021,0 1.849,0.829 1.849,1.85 l 0,0 c 0,1.021 -0.828,1.849 -1.849,1.849 l 0,0 c -1.022,0 -1.848,-0.828 -1.848,-1.849"
+                   style="fill:url(#linearGradient20971);stroke:none"
+                   id="path4902" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g4904"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g4906"
+             clip-path="url(#clipPath4908)">
+            <g
+               id="g4912"
+               transform="translate(710.1973,606.2871)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 0.904,0.132 1.678,-0.026 1.727,-0.354 1.773,-0.683 1.08,-1.057 0.174,-1.189 -0.73,-1.322 -1.504,-1.164 -1.551,-0.835 -1.6,-0.507 -0.904,-0.133 0,0"
+                 style="fill:#4da4a1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4914" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g4916"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g4918"
+             clip-path="url(#clipPath4920)">
+            <g
+               id="g4924">
+              <g
+                 id="g4926">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 708.51,607.297 c 0,-0.97 0.787,-1.756 1.756,-1.756 l 0,0 c 0.971,0 1.757,0.786 1.757,1.756 l 0,0 c 0,0.971 -0.786,1.757 -1.757,1.757 l 0,0 c -0.969,0 -1.756,-0.786 -1.756,-1.757"
+                   style="fill:url(#radialGradient20973);stroke:none"
+                   id="path4934" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g4936"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g4938"
+             clip-path="url(#clipPath4940)">
+            <g
+               id="g4944"
+               transform="translate(675.5469,612.4697)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 1.07,-0.028 1.93,-0.366 1.92,-0.754 1.908,-1.143 1.033,-1.436 -0.037,-1.407 -1.109,-1.379 -1.969,-1.042 -1.957,-0.653 -1.947,-0.264 -1.072,0.028 0,0"
+                 style="fill:#2a8583;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4946" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g4948"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g4950"
+             clip-path="url(#clipPath4952)">
+            <g
+               id="g4956">
+              <g
+                 id="g4958">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 673.258,613.803 c 0,-1.137 0.922,-2.058 2.059,-2.058 l 0,0 c 1.136,0 2.058,0.921 2.058,2.058 l 0,0 c 0,1.136 -0.922,2.058 -2.058,2.058 l 0,0 c -1.137,0 -2.059,-0.922 -2.059,-2.058"
+                   style="fill:url(#radialGradient20975);stroke:none"
+                   id="path4966" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g4968"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g4970"
+             clip-path="url(#clipPath4972)">
+            <g
+               id="g4976"
+               transform="translate(705.209,623.585)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 0.869,0.127 1.609,-0.025 1.656,-0.34 1.701,-0.656 1.035,-1.015 0.168,-1.142 -0.701,-1.269 -1.441,-1.116 -1.488,-0.801 -1.535,-0.485 -0.867,-0.127 0,0"
+                 style="fill:#4da4a1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path4978" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g4980"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g4982"
+             clip-path="url(#clipPath4984)">
+            <g
+               id="g4988">
+              <g
+                 id="g4990">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 703.601,624.63 c 0,-0.964 0.784,-1.746 1.747,-1.746 l 0,0 c 0.965,0 1.746,0.782 1.746,1.746 l 0,0 c 0,0.964 -0.781,1.746 -1.746,1.746 l 0,0 c -0.963,0 -1.747,-0.782 -1.747,-1.746"
+                   style="fill:url(#linearGradient20977);stroke:none"
+                   id="path5002" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5004"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5006"
+             clip-path="url(#clipPath5008)">
+            <g
+               id="g5012">
+              <g
+                 id="g5014">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 730.959,577.292 c 0,-1.038 0.842,-1.88 1.88,-1.88 l 0,0 c 1.038,0 1.88,0.842 1.88,1.88 l 0,0 c 0,1.038 -0.842,1.88 -1.88,1.88 l 0,0 c -1.038,0 -1.88,-0.842 -1.88,-1.88"
+                   style="fill:url(#linearGradient20979);stroke:none"
+                   id="path5026" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5028"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5030"
+             clip-path="url(#clipPath5032)">
+            <g
+               id="g5036"
+               transform="translate(680.9102,597.0635)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 1.059,0.155 1.963,-0.031 2.02,-0.416 2.076,-0.801 1.264,-1.238 0.205,-1.393 -0.855,-1.548 -1.76,-1.362 -1.816,-0.978 -1.871,-0.593 -1.059,-0.155 0,0"
+                 style="fill:#86c3c1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5038" />
+            </g>
+            <g
+               id="g5040"
+               transform="translate(673.1152,579.6626)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 1.061,0.155 1.965,-0.032 2.02,-0.417 2.076,-0.802 1.264,-1.24 0.205,-1.395 -0.854,-1.55 -1.758,-1.363 -1.814,-0.978 -1.871,-0.593 -1.059,-0.155 0,0"
+                 style="fill:#86c3c1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5042" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5044"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5046"
+             clip-path="url(#clipPath5048)">
+            <g
+               id="g5052">
+              <g
+                 id="g5054">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 678.814,598.114 c 0,-1.136 0.923,-2.058 2.057,-2.058 l 0,0 c 1.136,0 2.057,0.922 2.057,2.058 l 0,0 c 0,1.136 -0.921,2.057 -2.057,2.057 l 0,0 c -1.134,0 -2.057,-0.921 -2.057,-2.057"
+                   style="fill:url(#radialGradient20981);stroke:none"
+                   id="path5062" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5064"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5066"
+             clip-path="url(#clipPath5068)">
+            <g
+               id="g5072">
+              <g
+                 id="g5074">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 671.129,581.075 c 0,-1.176 0.955,-2.13 2.13,-2.13 l 0,0 c 1.177,0 2.13,0.954 2.13,2.13 l 0,0 c 0,1.176 -0.953,2.13 -2.13,2.13 l 0,0 c -1.175,0 -2.13,-0.954 -2.13,-2.13"
+                   style="fill:url(#linearGradient20983);stroke:none"
+                   id="path5086" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5088"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5090"
+             clip-path="url(#clipPath5092)">
+            <g
+               id="g5096"
+               transform="translate(662.875,587.6431)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 1.061,0.155 1.965,-0.031 2.021,-0.416 2.078,-0.801 1.264,-1.24 0.205,-1.395 -0.855,-1.55 -1.76,-1.364 -1.816,-0.979 -1.873,-0.594 -1.059,-0.155 0,0"
+                 style="fill:#2a8583;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5098" />
+            </g>
+            <g
+               id="g5100"
+               transform="translate(716.918,614.7646)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 1.059,0.155 1.963,-0.031 2.02,-0.416 2.076,-0.801 1.262,-1.238 0.203,-1.393 -0.857,-1.548 -1.762,-1.361 -1.818,-0.977 -1.873,-0.592 -1.061,-0.155 0,0"
+                 style="fill:#2a8583;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5102" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5104"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5106"
+             clip-path="url(#clipPath5108)">
+            <g
+               id="g5112">
+              <g
+                 id="g5114">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 714.28,616.436 c 0,-1.396 1.13,-2.527 2.527,-2.527 l 0,0 c 1.394,0 2.527,1.131 2.527,2.527 l 0,0 c 0,1.395 -1.133,2.527 -2.527,2.527 l 0,0 c -1.397,0 -2.527,-1.132 -2.527,-2.527"
+                   style="fill:url(#radialGradient20985);stroke:none"
+                   id="path5128" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5130"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5132"
+             clip-path="url(#clipPath5134)">
+            <g
+               id="g5138"
+               transform="translate(670.5469,597.2295)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 0.781,-0.021 1.408,-0.267 1.4,-0.55 1.395,-0.833 0.754,-1.046 -0.025,-1.025 -0.807,-1.005 -1.434,-0.759 -1.426,-0.476 -1.418,-0.192 -0.779,0.021 0,0"
+                 style="fill:#4da4a1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5140" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5142"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5144"
+             clip-path="url(#clipPath5146)">
+            <g
+               id="g5150">
+              <g
+                 id="g5152">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 668.534,598.728 c 0,-1.018 0.823,-1.844 1.843,-1.844 l 0,0 c 1.018,0 1.844,0.826 1.844,1.844 l 0,0 c 0,1.018 -0.826,1.844 -1.844,1.844 l 0,0 c -1.02,0 -1.843,-0.826 -1.843,-1.844"
+                   style="fill:url(#radialGradient20987);stroke:none"
+                   id="path5166" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5168"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5170"
+             clip-path="url(#clipPath5172)">
+            <g
+               id="g5176"
+               transform="translate(699.0273,628.9531)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,0 c 1.07,-0.027 1.93,-0.365 1.92,-0.754 -0.01,-0.389 -0.887,-0.681 -1.957,-0.653 -1.07,0.027 -1.93,0.365 -1.92,0.754 C -1.947,-0.265 -1.07,0.028 0,0"
+                 style="fill:#2a8583;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5178" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5180"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5182"
+             clip-path="url(#clipPath5184)">
+            <g
+               id="g5188">
+              <g
+                 id="g5190">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 696.914,630.38 c 0,-1.177 0.953,-2.131 2.131,-2.131 l 0,0 c 1.176,0 2.131,0.954 2.131,2.131 l 0,0 c 0,1.177 -0.955,2.131 -2.131,2.131 l 0,0 c -1.178,0 -2.131,-0.954 -2.131,-2.131"
+                   style="fill:url(#linearGradient20989);stroke:none"
+                   id="path5202" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5204"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5206"
+             clip-path="url(#clipPath5208)">
+            <g
+               id="g5212"
+               transform="translate(720.5234,607.6484)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 1.059,0.155 1.963,-0.031 2.02,-0.417 2.076,-0.802 1.264,-1.24 0.203,-1.395 -0.855,-1.55 -1.76,-1.364 -1.816,-0.979 -1.873,-0.593 -1.061,-0.155 0,0"
+                 style="fill:#2a8583;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5214" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5216"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5218"
+             clip-path="url(#clipPath5220)">
+            <g
+               id="g5224">
+              <g
+                 id="g5226">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 718.558,608.856 c 0,-1.136 0.923,-2.058 2.059,-2.058 l 0,0 c 1.137,0 2.057,0.922 2.057,2.058 l 0,0 c 0,1.137 -0.92,2.058 -2.057,2.058 l 0,0 c -1.136,0 -2.059,-0.921 -2.059,-2.058"
+                   style="fill:url(#radialGradient20991);stroke:none"
+                   id="path5234" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5236"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5238"
+             clip-path="url(#clipPath5240)">
+            <g
+               id="g5244"
+               transform="translate(685.1738,579.2334)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="m 0,0 c 1.07,-0.028 1.93,-0.366 1.92,-0.755 -0.01,-0.39 -0.887,-0.683 -1.957,-0.655 -1.07,0.028 -1.93,0.367 -1.92,0.756 C -1.945,-0.265 -1.07,0.028 0,0"
+                 style="fill:#4da4a1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5246" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5248"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5250"
+             clip-path="url(#clipPath5252)">
+            <g
+               id="g5256">
+              <g
+                 id="g5258">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 682.895,580.578 c 0,-1.136 0.921,-2.058 2.058,-2.058 l 0,0 c 1.137,0 2.057,0.922 2.057,2.058 l 0,0 c 0,1.136 -0.92,2.058 -2.057,2.058 l 0,0 c -1.137,0 -2.058,-0.922 -2.058,-2.058"
+                   style="fill:url(#radialGradient20993);stroke:none"
+                   id="path5266" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5268"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5270"
+             clip-path="url(#clipPath5272)">
+            <g
+               id="g5276"
+               transform="translate(699.8242,601.2217)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 1.059,0.155 1.963,-0.032 2.02,-0.417 2.076,-0.802 1.264,-1.24 0.205,-1.396 -0.855,-1.551 -1.76,-1.364 -1.816,-0.979 -1.871,-0.594 -1.059,-0.155 0,0"
+                 style="fill:#4da4a1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5278" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5280"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5282"
+             clip-path="url(#clipPath5284)">
+            <g
+               id="g5288">
+              <g
+                 id="g5290">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 697.842,602.464 c 0,-1.177 0.953,-2.131 2.13,-2.131 l 0,0 c 1.177,0 2.132,0.954 2.132,2.131 l 0,0 c 0,1.177 -0.955,2.131 -2.132,2.131 l 0,0 c -1.177,0 -2.13,-0.954 -2.13,-2.131"
+                   style="fill:url(#linearGradient20995);stroke:none"
+                   id="path5302" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5304"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5306"
+             clip-path="url(#clipPath5308)">
+            <g
+               id="g5312">
+              <g
+                 id="g5314">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 660.785,589.107 c 0,-1.177 0.953,-2.131 2.131,-2.131 l 0,0 c 1.176,0 2.131,0.954 2.131,2.131 l 0,0 c 0,1.177 -0.955,2.131 -2.131,2.131 l 0,0 c -1.178,0 -2.131,-0.954 -2.131,-2.131"
+                   style="fill:url(#linearGradient20997);stroke:none"
+                   id="path5326" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5328"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5330"
+             clip-path="url(#clipPath5332)">
+            <g
+               id="g5336"
+               transform="translate(725.8418,593.6709)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 1.059,0.155 1.963,-0.031 2.02,-0.416 2.076,-0.801 1.264,-1.238 0.205,-1.393 -0.855,-1.548 -1.76,-1.362 -1.814,-0.978 -1.871,-0.593 -1.059,-0.155 0,0"
+                 style="fill:#2a8583;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5338" />
+            </g>
+            <g
+               id="g5340"
+               transform="translate(729.0723,596.6123)">
+              <path
+                 inkscape:connector-curvature="0"
+                 d="M 0,0 C 1.059,0.155 1.963,-0.031 2.02,-0.416 2.076,-0.801 1.264,-1.238 0.203,-1.393 -0.857,-1.548 -1.762,-1.362 -1.818,-0.977 -1.873,-0.592 -1.061,-0.155 0,0"
+                 style="fill:#2a8583;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path5342" />
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5344"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5346"
+             clip-path="url(#clipPath5348)">
+            <g
+               id="g5352">
+              <g
+                 id="g5354">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 723.73,594.677 c 0,-1.136 0.922,-2.057 2.057,-2.057 l 0,0 c 1.137,0 2.057,0.921 2.057,2.057 l 0,0 c 0,1.136 -0.92,2.057 -2.057,2.057 l 0,0 c -1.135,0 -2.057,-0.921 -2.057,-2.057"
+                   style="fill:url(#radialGradient20999);stroke:none"
+                   id="path5362" />
+              </g>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="matrix(2.1500853,0,0,2.1500853,-1047.6109,-414.35984)"
+           id="g5364"
+           inkscape:export-filename="/home/michal/Pulpit/mintcupcake.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             id="g5366"
+             clip-path="url(#clipPath5368)">
+            <g
+               id="g5372">
+              <g
+                 id="g5374">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m 727.076,598.007 c 0,-1.176 0.953,-2.131 2.131,-2.131 l 0,0 c 1.175,0 2.131,0.955 2.131,2.131 l 0,0 c 0,1.177 -0.956,2.131 -2.131,2.131 l 0,0 c -1.178,0 -2.131,-0.954 -2.131,-2.131"
+                   style="fill:url(#linearGradient21001);stroke:none"
+                   id="path5386" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+
+{{ template "nav" }}		
+
+<section class="cupcakes-list-header">
+	<div class="container">
+		<div class="row list-header">
+			<div class="col-md-6 cupcakes-list-image"></div>
+			<div class="col-md-6 cupcakes-list-text"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="cupcakes-list">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4 cupcakes-categories cat-shadow">
+				<h3>CATEGORIES</h3>
+					<ul>
+						<li><a href="czekoladowe.html">Czekolada</a></li>
+						<li><a href="owocowe.html">Owoce</a></li>
+						<li><a href="orzechowe.html">Orzechy</a></li>
+						<li><a href="inne.html">Inne</a></li>
+					</ul>
+			</div>
+			<div class="col-md-8">
+				<div class="row">
+					{{range .cupcakes}}
+						<div class="col-md-4">
+							<div class="cat-item"></div>
+							<div class="cat-item-image {{.ImageClass}}"></div>
+							<div class="cat-item-description">
+								<h4>{{.Name}}</h4>
+							</div>
+						</div>
+					{{end}}
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

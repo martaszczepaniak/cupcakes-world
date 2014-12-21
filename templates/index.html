@@ -1,0 +1,81 @@
+{{ template "nav" }}
+
+<section class="hero">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 hero-image"></div>
+			<div class="col-md-6 hero-text">
+				<div class="hero-table">
+					<div class="hero-table-cell">
+						<h1>Babeczkowe Królestwo zaprasza!</h1>
+						<a href="#" class="hero-button">
+							ZAMÓW TERAZ
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="bestsellers">
+	<div class="container">
+		<div class="row">
+			<h2 class="bestsellers-header">Bestselling Cupcakes</h2>
+		</div>
+		<div class="row">
+			{{range .bestsellingCupcakes}}
+				<div class="col-md-4">
+					<div class="bestselling-item">
+						<div class="item-image {{.ImageClass}}"></div>
+						<div class="item-description clearfix">
+							<h4>{{.Name}}</h4>
+							<a href="#"  class="item-button">DO KOSZYKA</a>
+						</div>
+					</div>
+				</div>
+			{{end}}
+		</div>
+	</div>
+</section>
+<section class="aboutus">
+	<div class="container">
+		<div class="row">
+			<h2 class="aboutus-header">O Cupcakes' World</h2>
+		</div>
+		<div class="row">
+			<div class="col-md-4">
+				<div class="aboutus-image"></div>
+			</div>
+			<div class="col-md-8">
+				<div class="item-description">
+					<h4>Firma z historia od 1931 roku!</h4>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, doloribus voluptatum. Quo explicabo, dignissimos porro modi, voluptatem fugit iusto sint aperiam ratione consequatur deserunt quidem provident odio, aut! Ipsam, blanditiis!</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<footer class="footer">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-2">
+				<h4></h4>
+			</div>
+			<div class="col-md-2">
+				<h4></h4>
+			</div>
+			<div class="col-md-2">
+				<h4></h4>
+			</div>
+			<div class="col-md-2">
+				<p>Polecamy</p>
+			</div>
+			<div class="col-md-2">
+				<p>O nas</p>
+			</div>
+			<div class="col-md-2">
+				<p>Kontakt</p>
+			</div>
+		</div>
+	</div>
+</footer>
