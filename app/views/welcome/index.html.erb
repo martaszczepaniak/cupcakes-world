@@ -21,9 +21,9 @@
 			<h2 class="bestsellers-header">Bestselling Cupcakes</h2>
 		</div>
 		<div class="row">
-			{{range .bestsellingCupcakes}}
-				{{template "_bestsellingCupcake" .}}
-			{{end}}
+			<% @bestselling_cupcakes.each do |cupcake| %>
+                <%= render partial: 'bestselling_cupcake', locals: { cupcake: cupcake } %>
+            <% end %>
 		</div>
 	</div>
 </section>

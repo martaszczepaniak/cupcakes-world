@@ -1,0 +1,2 @@
+class CupcakesController < ApplicationController
+end
