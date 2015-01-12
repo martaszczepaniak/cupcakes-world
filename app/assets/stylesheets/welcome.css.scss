@@ -1,0 +1,317 @@
+body {
+	color: #fff;
+	padding-top: 70px;
+}
+li {
+	display: block;
+}
+
+.clearfix:before {
+	content: " ";
+    display: table;
+}
+
+.clearfix:after {
+	content: " ";
+    display: table;
+    clear: both;
+}
+
+.nav {
+	padding: 10px 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 999;
+	background-color: #A8E6CE;
+}
+
+.nav-shadow {
+	box-shadow: 0 -15px 30px 1px gray;
+}
+
+.nav .nav-container .logo {
+	float: left;
+}
+
+.nav .nav-container .logo .logo-image {
+	width: 50px;
+	height: 50px;
+	float: left;
+	background-image: url(image-path('whitecupcake.png'));
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+.nav .nav-container .logo .logo-text {
+	font-family: 'Nothing You Could Do', cursive;
+	float: left;
+	height: 50px;
+	font-size: 24px;
+	line-height: 30px;
+	padding: 10px 0 10px 10px;
+}
+
+.nav .nav-container .nav-links-container {
+	float: right;
+}
+
+.nav .nav-container .nav-links-container .nav-links {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.nav .nav-container .nav-links-container .nav-links .nav-link {
+	float: left;
+	margin-left: 50px;
+}
+
+.nav .nav-container .nav-links-container .nav-links .nav-link a {
+	font-family: 'Lato';
+	font-size: 24px;
+	font-weight: 300;
+	text-decoration: none;
+	color: white;
+	line-height: 30px;
+	padding: 10px 0;
+	display: block;
+}
+
+.nav .nav-container .nav-links-container .nav-links .nav-link a:hover {
+	text-shadow: 0px 1px 2px gray;
+	color: #FFAAA6;
+}
+
+.nav .nav-container .nav-links-container .nav-links .nav-link .light {
+	text-shadow: 0px 1px 2px gray;
+	color: #FFAAA6;
+}
+
+.nav .logo-text a {
+	text-decoration: none;
+	color: white;
+}
+
+.hero {
+	background-color: #A8E6CE;
+}
+
+.hero .hero-image {
+	height: 350px;
+	background-image: url(image-path('heartcupcake.png'));
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+
+.hero .hero-text .hero-table {
+	display: table;
+	height: 350px;
+}
+
+.hero .hero-text .hero-table .hero-table-cell {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.hero .hero-text .hero-table .hero-table-cell .hero-button {
+	display: block;
+	float: left;
+	background-color: #FFAAA6;
+	font-family: 'Lato';
+	font-weight: 300;
+	font-size: 1.125rem;
+	padding: 0.7rem;
+	border-radius: 5px;
+	text-decoration: none;
+	color: white;
+}
+
+.hero .hero-text .hero-table .hero-table-cell .hero-button:hover {
+	background-color: #FFD3B5;
+}
+
+.bestsellers {
+	background-color: #DCEDC2;
+	text-align: center;
+	padding: 20px 0 40px 0;
+}
+
+.bestsellers-header {
+	color: #FF8C94;
+}
+
+.bestsellers .bestselling-item .item-image {
+	border-radius: 100%;
+	width: 200px;
+	height: 200px;
+	background-size: auto 80%;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-color: #fff;
+	margin: 0 auto;
+}
+
+.bestsellers .bestselling-item .item-button {
+	background-color: #FFAAA6;
+	font-family: 'Lato';
+	font-weight: 300;
+	font-size: 1rem;
+	padding: 0.5rem 1rem;
+	border-radius: 5px;
+	text-decoration: none;
+	color: white;
+	display: block;
+	margin: 20px auto;
+	width: 200px;
+}
+
+.aboutus {
+	background-color: #fff;
+	text-align: left;
+	padding: 20px 0;
+}
+
+.aboutus .aboutus-image {
+	background-image: url(image-path('cherrycupcake.png'));
+	background-size: auto 80%;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	height: 200px;
+}
+
+.aboutus h2 {
+	text-align: center;
+}
+
+.footer {
+	background-color: #A8E6CE;
+	text-align: center;
+	padding: 20px 0;
+}
+.footer p {
+	color: gray;
+}
+
+.cupcakes-list-header .cupcakes-list-image {
+	height: 150px;
+	background-image: url(image-path('heartcupcake.png'));
+	background-size: auto 90%;
+	background-repeat: no-repeat;
+	background-position: 100% 50%;
+}
+
+.cupcakes-list-header .cupcakes-list-text {
+	height: 150px;
+	background-image: url(image-path('cupcake_list_text.png'));
+	background-size: auto 80%;
+	background-repeat: no-repeat;
+	background-position: 20% 50%;
+}
+
+.cupcakes-list-header {
+	background-color: #DCEDC2;
+	padding: 30px 0;
+}
+
+.cupcakes-list-header h3 {
+	color: gray;
+}
+
+.cupcakes-list h3 {
+	color: #fff;
+}
+
+.cupcakes-list {
+	background-color: #fff;
+	padding: 30px 0;
+}
+
+.cupcakes-list .cupcakes-categories {
+	background-color: #FFAAA6;
+	height: 600px;
+}
+
+.cupcakes-list .cat-item-description {
+	text-align: center;
+}
+
+.cupcakes-list .cupcakes-categories li{
+	font-family: Lato;
+	font-weight: 300;
+	font-size: 1.25rem;
+	padding: 0.7rem;
+	text-align: left;
+}
+
+.cupcakes-list .cupcakes-categories a{
+	text-decoration: none;
+	color: white;
+}
+
+.cupcakes-list .cupcakes-categories a:hover{
+	text-shadow: 0px 1px 2px gray;
+	color: gray;
+}
+
+.cupcakes-list .cupcakes-categories .light {
+	text-shadow: 0px 1px 2px gray;
+	color: gray;
+}
+
+.cupcakes-list .cupcakes-categories h3{
+	padding-left: 2.5rem;
+	text-align: left;
+}
+
+.cupcakes-list .cat-item-image {
+	height: 150px;
+	padding-top: 30px;
+	background-size: auto 80%;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+
+.cherrycup {
+	background-image: url(image-path('cherrycupcake.png'));
+}
+
+.heartcup {
+	background-image: url(image-path('heartcupcake.png'));
+}
+
+.greencup {
+	background-image: url(image-path('greencupcake.png'));
+}
+
+.smallcup {
+	background-image: url(image-path('smallcupcake.png'));
+}
+
+.creamcup {
+	background-image: url(image-path('creamcupcake.png'));
+}
+
+.mintcup {
+	background-image: url(image-path('mintcupcake.png'));
+}
+
+.whitecup {
+	background-image: url(image-path('whitecupcake.png'));
+}
+.pinkcup {
+	background-image: url(image-path('pinkcupcake.png'));
+}
+
+.whipedcreamcup {
+	background-image: url("./images/whipedcreamcupcake.png");
+}
+
+.cupcakes-list .list-header {
+	padding-bottom: 30px;
+}
+
+.cat-shadow {
+	box-shadow: 0 1px 3px gray;
+}
