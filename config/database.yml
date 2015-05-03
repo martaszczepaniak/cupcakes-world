@@ -1,16 +1,26 @@
-default: &default
+development:
   adapter: postgresql
   encoding: unicode
+  database: cupcakes-world-dev
   pool: 5
-
-development:
-  <<: *default
-  database: cupcakes-world_development
+  host: localhost
+  username: action
+  password:
 
 test:
-  <<: *default
-  database: cupcakes-world_test
+  adapter: postgresql
+  encoding: unicode
+  database: cupcakes-world-test
+  pool: 5
+  host: localhost
+  username: action
+  password:
 
 production:
-  <<: *default
-  database: cupcakes-world_production
+  adapter: postgresql
+  encoding: unicode
+  database: cupcakes-world-prod
+  pool: 5
+  host: localhost
+  username: action
+  password:
