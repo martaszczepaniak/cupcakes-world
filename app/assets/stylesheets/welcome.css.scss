@@ -69,7 +69,7 @@ li {
 
 .nav .nav-container .nav-links-container .nav-links .nav-link a {
 	font-family: 'Lato';
-	font-size: 24px;
+	font-size: 20px;
 	font-weight: 300;
 	text-decoration: none;
 	color: white;
@@ -230,7 +230,8 @@ li {
 
 .cupcakes-list .cupcakes-categories {
 	background-color: #FFAAA6;
-	height: 600px;
+    padding-bottom: 20px;
+    padding-top: 15px;
 }
 
 .cupcakes-list .cat-item-description {
@@ -240,8 +241,9 @@ li {
 .cupcakes-list .cupcakes-categories li{
 	font-family: Lato;
 	font-weight: 300;
-	font-size: 1.25rem;
-	padding: 0.7rem;
+	font-size: 1.1rem;
+	padding-top: 0.7rem;
+    padding-botton: 0.7rem;
 	text-align: left;
 }
 
@@ -301,11 +303,11 @@ li {
 	background-image: url(image-path('whitecupcake.png'));
 }
 .pinkcup {
-	background-image: url(image-path('pinkcupcake.png'));
+	background-image: url(image-path('greencupcake.png'));
 }
 
 .whipedcreamcup {
-	background-image: url("./images/whipedcreamcupcake.png");
+	background-image: url(image-path('whipedcreamcupcake.png'));
 }
 
 .cupcakes-list .list-header {
