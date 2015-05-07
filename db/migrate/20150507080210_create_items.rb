@@ -1,6 +1,6 @@
-class CreateBasketsCupcakes < ActiveRecord::Migration
+class CreateItems < ActiveRecord::Migration
   def change
-    create_table :baskets_cupcakes do |t|
+    create_table :items, id: false do |t|
       t.integer :cupcake_id
       t.integer :basket_id
 

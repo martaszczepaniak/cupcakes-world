@@ -21,13 +21,6 @@ ActiveRecord::Schema.define(version: 20150507080210) do
     t.datetime "updated_at", null: false
   end
 
-  create_table "baskets_cupcakes", force: :cascade do |t|
-    t.integer  "cupcake_id"
-    t.integer  "basket_id"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
   create_table "cupcakes", force: :cascade do |t|
     t.string   "name"
     t.decimal  "price"
@@ -44,6 +37,13 @@ ActiveRecord::Schema.define(version: 20150507080210) do
 
   create_table "flavours", force: :cascade do |t|
     t.string   "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "items", id: false, force: :cascade do |t|
+    t.integer  "cupcake_id"
+    t.integer  "basket_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
