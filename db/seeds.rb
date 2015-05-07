@@ -24,3 +24,4 @@ Cupcake.create([{ name: 'Cherry', price: 5, flavours: [cherry_flavour] },
                 { name: 'White', price: 5, flavours: [white_chocolate_flavour, toffee_flavour] },
                 { name: 'Pink', price: 6, flavours: [raspberry_flavour, vanilla_flavour] },
                 { name: 'WhipedCream', price: 9, flavours: [hazelnut_flavour, chocolate_flavour, mint_flavour] }])
+
