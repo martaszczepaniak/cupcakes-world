@@ -41,7 +41,7 @@ ActiveRecord::Schema.define(version: 20150507080210) do
     t.datetime "updated_at", null: false
   end
 
-  create_table "items", id: false, force: :cascade do |t|
+  create_table "items", force: :cascade do |t|
     t.integer  "cupcake_id"
     t.integer  "basket_id"
     t.datetime "created_at", null: false

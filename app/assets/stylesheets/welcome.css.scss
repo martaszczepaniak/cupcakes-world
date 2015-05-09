@@ -67,7 +67,7 @@ li {
 	margin-left: 50px;
 }
 
-.nav .nav-container .nav-links-container .nav-links .nav-link a {
+.nav .nav-container .nav-links-container .nav-links .nav-link > a {
 	font-family: 'Lato';
 	font-size: 20px;
 	font-weight: 300;
@@ -316,4 +316,62 @@ li {
 
 .cat-shadow {
 	box-shadow: 0 1px 3px gray;
+}
+
+.basket-link {
+  position: relative;
+
+  &:hover {
+    .basket-container {
+      display: block;
+    }
+  }
+}
+
+.basket-container {
+  position: absolute;
+  right: 0;
+  width: 300px;
+  background-color: aqua;
+  text-align: left;
+  display: none;
+}
+
+.basket-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  > li {
+    @extend .clearfix;
+    padding: 20px;
+
+    .item-price, .item-name {
+      float: left;
+    }
+
+    .item-name {
+      width: 70px;
+    }
+
+    .item-quantity-section {
+      @extend .clearfix;
+      float: right;
+
+      .item-link {
+        float: left;
+      }
+      .item-quantity {
+        margin: 0 10px;
+        width: 20px;
+        text-align: center;
+        float: left;
+      }
+      .item-sum {
+        float: left;
+        width: 50px;
+        text-align: right;
+      }
+    }
+  }
 }

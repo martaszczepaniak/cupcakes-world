@@ -7,7 +7,7 @@ class ItemsController < ApplicationController
 
   def destroy
     @basket = Basket.find(params[:basket_id])
-    @basket.items.find_by(cupcake_id: params[:cupcake_id]).destroy
+    @basket.items.find_by(cupcake_id: params[:id]).destroy
     render template: 'baskets/show', status: :ok
   end
 end
