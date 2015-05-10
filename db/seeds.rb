@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-Cupcake.create([{ name: 'Cherry', price: 5 }, 
-                { name: 'Green', price: 10 }, 
-                { name: 'Small', price: 2 }, 
-                { name: 'Heart', price: 9 },
-                { name: 'Cream', price: 5 },
-                { name: 'White', price: 6 },
-                { name: 'Pink', price: 4 },
-                { name: 'Whipedcream', price: 8 }])
-=======
+Basket.destroy_all
 Cupcake.destroy_all
 Flavour.destroy_all
 
@@ -24,7 +15,6 @@ white_chocolate_flavour = Flavour.create({ name: 'white chocolate' })
 toffee_flavour = Flavour.create({ name: 'toffee' })
 peanut_butter_flavour = Flavour.create({ name: 'peanut butter' })
 
-
 Cupcake.create([{ name: 'Cherry', price: 5, flavours: [cherry_flavour] },
                 { name: 'Green', price: 10, flavours: [green_tea_flavour, raspberry_flavour] },
                 { name: 'Small', price: 3, flavours: [vanilla_flavour, chocolate_flavour, cherry_flavour] },
@@ -34,5 +24,3 @@ Cupcake.create([{ name: 'Cherry', price: 5, flavours: [cherry_flavour] },
                 { name: 'White', price: 5, flavours: [white_chocolate_flavour, toffee_flavour] },
                 { name: 'Pink', price: 6, flavours: [raspberry_flavour, vanilla_flavour] },
                 { name: 'WhipedCream', price: 9, flavours: [hazelnut_flavour, chocolate_flavour, mint_flavour] }])
-
->>>>>>> 638c63defea4115238638d137662847ca96e4155
