@@ -67,9 +67,9 @@ li {
 	margin-left: 50px;
 }
 
-.nav .nav-container .nav-links-container .nav-links .nav-link a {
+.nav .nav-container .nav-links-container .nav-links .nav-link > a {
 	font-family: 'Lato';
-	font-size: 24px;
+	font-size: 20px;
 	font-weight: 300;
 	text-decoration: none;
 	color: white;
@@ -153,7 +153,7 @@ li {
 	margin: 0 auto;
 }
 
-.bestsellers .bestselling-item .item-button {
+.item-button {
 	background-color: #FFAAA6;
 	font-family: 'Lato';
 	font-weight: 300;
@@ -230,7 +230,8 @@ li {
 
 .cupcakes-list .cupcakes-categories {
 	background-color: #FFAAA6;
-	height: 600px;
+    padding-bottom: 20px;
+    padding-top: 15px;
 }
 
 .cupcakes-list .cat-item-description {
@@ -240,8 +241,9 @@ li {
 .cupcakes-list .cupcakes-categories li{
 	font-family: Lato;
 	font-weight: 300;
-	font-size: 1.25rem;
-	padding: 0.7rem;
+	font-size: 1.1rem;
+	padding-top: 0.7rem;
+    padding-botton: 0.7rem;
 	text-align: left;
 }
 
@@ -301,7 +303,7 @@ li {
 	background-image: url(image-path('whitecupcake.png'));
 }
 .pinkcup {
-	background-image: url(image-path('pinkcupcake.png'));
+	background-image: url(image-path('greencupcake.png'));
 }
 
 .whipedcreamcup {
@@ -314,4 +316,85 @@ li {
 
 .cat-shadow {
 	box-shadow: 0 1px 3px gray;
+}
+
+.basket-link {
+  position: relative;
+
+  &:hover {
+    .basket-container {
+      display: block;
+    }
+  }
+
+	.item-added {
+		display: none;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		background-color: #FFAAA6;
+		width: 50px;
+		height: 50px;
+		text-align: center;
+		border-radius: 50%;
+		line-height: 50px;
+		color: #fff;
+		font-family: 'Lato';
+		font-weight: 300;
+	}
+
+	&.adding-item {
+		.item-added {
+			display: block;
+		}
+	}
+}
+
+.basket-container {
+  position: absolute;
+  right: 0;
+  width: 300px;
+  background-color: aqua;
+  text-align: left;
+  display: none;
+}
+
+.basket-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  > li {
+    @extend .clearfix;
+    padding: 20px;
+
+    .item-price, .item-name {
+      float: left;
+    }
+
+    .item-name {
+      width: 70px;
+    }
+
+    .item-quantity-section {
+      @extend .clearfix;
+      float: right;
+
+      .item-link {
+        float: left;
+      }
+      .item-quantity {
+        margin: 0 10px;
+        width: 20px;
+        text-align: center;
+        float: left;
+      }
+      .item-sum {
+        float: left;
+        width: 50px;
+        text-align: right;
+      }
+    }
+  }
 }

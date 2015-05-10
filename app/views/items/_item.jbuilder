@@ -1,0 +1,5 @@
+json.name item[0][0]
+json.price item[0][1]
+json.id item[0][2]
+json.quantity item[1]
+json.sum item[0][1]*item[1]

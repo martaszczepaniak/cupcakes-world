@@ -3,5 +3,6 @@
   <div class="cat-item-image <%= cupcake.name.downcase %>cup"></div>
   <div class="cat-item-description">
     <h4><%= cupcake.name %></h4>
+    <%= link_to 'Add to basket', basket_items_path({basket_id: @basket.id, cupcake_id: cupcake.id}), { method: :post, remote: true, class: 'item-button' }%>
   </div>
 </div>
