@@ -32,11 +32,11 @@ class Basket
     item_sum = $('<div>').text(item.sum).addClass('item-sum')
     item_quantity_section = $('<div>').addClass('item-quantity-section')
     item_quantity = $('<div>').text(item.quantity).addClass('item-quantity')
-    item_add_link = $('<a>').text('+').addClass('item-link')
+    item_add_link = $('<a>').text('+').addClass('item-link').addClass('add-item')
       .attr('data-remote', 'true')
       .attr('data-method', 'post')
       .attr('href', "/baskets/#{@basketId}/items?cupcake_id=#{item.id}")
-    item_remove_link = $('<a>').text('-').addClass('item-link')
+    item_remove_link = $('<a>').text('-').addClass('item-link').addClass('remove-item')
       .attr('data-remote', 'true')
       .attr('data-method', 'delete')
       .attr('href', "/baskets/#{@basketId}/items/#{item.id}")
@@ -48,7 +48,22 @@ class Basket
     item_quantity_section.append(item_sum)
     list_item.append(item_quantity_section)
 
-  onItemAjaxSuccess: (_, response) =>
+  onItemAjaxSuccess: (event, response) =>
+    if @removingItem($(event.target))
+      $('.item-added').text('-1')
+    else
+      $('.item-added').text('+1')
+
+    @blinkNotification()
     @replaceBasket(response)
+
+  removingItem: (link) =>
+    link.hasClass('remove-item')
+
+  blinkNotification: =>
+    $('.basket-link').addClass('adding-item')
+    setTimeout =>
+      $('.basket-link').removeClass('adding-item')
+    , 300
 
 $(document).on('ready page:load', -> new Basket)

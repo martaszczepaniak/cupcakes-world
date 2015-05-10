@@ -3,7 +3,7 @@
     <div class="item-image <%= cupcake.name.downcase %>cup"></div>
     <div class="item-description clearfix">
       <h4><%= cupcake.name %></h4>
-      <%= link_to 'Add to basket', basket_items_path({basket_id: 1, cupcake_id: cupcake.id}), { method: :post, remote: true, class: 'item-button' }%>
+      <%= link_to 'Add to basket', basket_items_path({basket_id: @basket.id, cupcake_id: cupcake.id}), { method: :post, remote: true, class: 'item-button' }%>
     </div>
   </div>
 </div>
