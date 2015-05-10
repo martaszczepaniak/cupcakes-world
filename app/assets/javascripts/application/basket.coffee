@@ -1,12 +1,13 @@
 class Basket
   constructor: ->
+    @basketId = $('#basket').data('basket-id')
     @downloadBasket()
     $('body').on('ajax:success', '.item-button, .item-link', @onItemAjaxSuccess)
 
   downloadBasket: =>
     $.ajax({
       dataType: 'json',
-      url: 'http://localhost:3000/baskets/1.json'
+      url: "http://localhost:3000/baskets/#{@basketId}.json"
       success: @replaceBasket
     })
 
@@ -34,11 +35,11 @@ class Basket
     item_add_link = $('<a>').text('+').addClass('item-link')
       .attr('data-remote', 'true')
       .attr('data-method', 'post')
-      .attr('href', "/baskets/1/items?cupcake_id=#{item.id}")
+      .attr('href', "/baskets/#{@basketId}/items?cupcake_id=#{item.id}")
     item_remove_link = $('<a>').text('-').addClass('item-link')
       .attr('data-remote', 'true')
       .attr('data-method', 'delete')
-      .attr('href', "/baskets/1/items/#{item.id}")
+      .attr('href', "/baskets/#{@basketId}/items/#{item.id}")
     list_item.append(item_name)
     list_item.append(item_price)
     item_quantity_section.append(item_remove_link)
